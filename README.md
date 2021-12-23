@@ -1,3 +1,3 @@
 # Python Tutorial
 
-This repository was created to save and share my codes in Python Programming Language
+This repository was created to save and share my work in Python Programming Language
